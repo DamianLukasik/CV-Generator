@@ -1,13 +1,17 @@
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
 C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\CV Generator.exe.config
 C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\CV Generator.exe
 C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\CV Generator.pdb
 C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\Microsoft.ReportViewer.Common.dll
-C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
-C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\Microsoft.ReportViewer.Design.DLL
-C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
 C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
 C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
-C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\Microsoft.ReportViewer.WinForms.dll
 C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\Microsoft.SqlServer.Types.dll
 C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\EnvDTE.dll
 C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
@@ -16,23 +20,12 @@ C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\
 C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\stdole.dll
 C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
 C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
-C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
-C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\Microsoft.MSXML.dll
-C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\obj\Debug\CV_Generator.Form1.resources
-C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\obj\Debug\CV_Generator.Properties.Resources.resources
-C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\obj\Debug\CV Generator.csproj.GenerateResource.Cache
-C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\obj\Debug\CV Generator.csproj.CoreCompileInputs.cache
-C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\obj\Debug\CV Generator.exe
-C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\obj\Debug\CV Generator.pdb
-C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\SqlServerTypes\x64\msvcr120.dll
-C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
-C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\SqlServerTypes\x86\msvcr120.dll
-C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
 C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
 C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
 C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
 C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
 C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
 C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
 C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
 C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
@@ -50,6 +43,7 @@ C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\
 C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
 C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\Microsoft.MSXML.dll
 C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
 C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\VSLangProj2.dll
 C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
@@ -108,3 +102,15 @@ C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\
 C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
 C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\pl\Microsoft.VisualStudio.Data.Services.resources.dll
 C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\pl\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\obj\Debug\CV_Generator.Form1.resources
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\obj\Debug\CV_Generator.Form_Author.resources
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\obj\Debug\CV_Generator.Properties.Resources.resources
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\obj\Debug\CV Generator.csproj.GenerateResource.Cache
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\obj\Debug\CV Generator.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\obj\Debug\CV Generator.exe
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\obj\Debug\CV Generator.pdb
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\obj\Debug\CV Generator.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\obj\Debug\CV_Generator.Form_Settings.resources
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\obj\Debug\CV_Generator.Resources.lang_en.resources
+C:\Users\Damian\Documents\Visual Studio 2017\Projects\CV Generator\CV Generator\obj\Debug\CV_Generator.Resources.lang_pl.resources
